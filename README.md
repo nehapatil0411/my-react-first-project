@@ -15,9 +15,16 @@ This project helped me understand the core concepts of React, including JSX, com
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 🧠 Skills Gained:
 ✅ Component-based architecture
+
+
 ✅ Modular and maintainable code
+
+
 ✅ Styling with inline and external CSS
+
+
 ✅ Basic React rendering flow
+
 
 
 Demo video📹:
